@@ -1,5 +1,5 @@
 # samsung-sw-coding-test
-### Git convention: (이름)_(문제번호)_Week.XX
+### Git convention: (이름)_(문제번호)_Week.XX
 
 코딩문제를 풀어보겠사와요 \
 Ver 1. Samsung SW Expert Academy \
